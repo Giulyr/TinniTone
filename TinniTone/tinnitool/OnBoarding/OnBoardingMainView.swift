@@ -18,7 +18,7 @@ struct OnBoardingMainView: View {
             TabView {
                 
                 OnBoardingFirstView()
-                
+
                 OnBoardingSecondView()
                 
                 OnBoardingThirdView()

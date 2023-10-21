@@ -26,7 +26,6 @@
 		42F4523527BC52A200165DA7 /* AirPlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F4523427BC52A200165DA7 /* AirPlayView.swift */; };
 		42F4523D27BC68C800165DA7 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F4523C27BC68C800165DA7 /* TabBarView.swift */; };
 		42F4523F27BC6AC500165DA7 /* AppColors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42F4523E27BC6AC500165DA7 /* AppColors.xcassets */; };
-		560EA22627BD5270000E6D92 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 560EA22527BD5270000E6D92 /* .gitignore */; };
 		5B5446E227CE831100908869 /* Model in Resources */ = {isa = PBXBuildFile; fileRef = 5B5446E127CE831100908869 /* Model */; };
 		5B5446E427CE832300908869 /* DataLogModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5446E327CE832300908869 /* DataLogModel.swift */; };
 		5B550A6227D8E58D00D74FD5 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 5B550A6127D8E58D00D74FD5 /* SwiftUICharts */; };
@@ -72,7 +71,6 @@
 		42F4523427BC52A200165DA7 /* AirPlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPlayView.swift; sourceTree = "<group>"; };
 		42F4523C27BC68C800165DA7 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		42F4523E27BC6AC500165DA7 /* AppColors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AppColors.xcassets; sourceTree = "<group>"; };
-		560EA22527BD5270000E6D92 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		56C3754A27C001DE00F25804 /* tinnitoolWatch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "tinnitoolWatch-Bridging-Header.h"; sourceTree = "<group>"; };
 		5B0238AA27C2857C00A8A738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		5B5446E127CE831100908869 /* Model */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Model; path = tinnitool/Model; sourceTree = SOURCE_ROOT; };
@@ -151,7 +149,6 @@
 		5B6E8FDE27BBF08100E55D89 = {
 			isa = PBXGroup;
 			children = (
-				560EA22527BD5270000E6D92 /* .gitignore */,
 				5B6E8FE927BBF08100E55D89 /* tinnitool */,
 				5B6E8FE827BBF08100E55D89 /* Products */,
 				42AC92BD27C67F270062DF09 /* Useless Stuff */,
@@ -263,7 +260,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B5446E227CE831100908869 /* Model in Resources */,
-				560EA22627BD5270000E6D92 /* .gitignore in Resources */,
 				5B6E8FF227BBF08200E55D89 /* Preview Assets.xcassets in Resources */,
 				5B6E8FEF27BBF08200E55D89 /* Assets.xcassets in Resources */,
 				42F4523F27BC6AC500165DA7 /* AppColors.xcassets in Resources */,
